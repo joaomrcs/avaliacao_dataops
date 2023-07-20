@@ -60,7 +60,7 @@ pipeline = [
 # Realize a agregação na coleção "Carros"
 results_agg = list(cars_collection.aggregate(pipeline))
 
-# Itere sobre os resultados e imprima-os
+# Itereção sobre os resultados e print
 for documento in results_agg:
    print(documento)
 

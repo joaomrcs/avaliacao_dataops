@@ -1,0 +1,1 @@
+[{"_id": "Japao", "Carros": [{"_id": "64b9596e2bd416c8497e7866"}]}, {"_id": "Franca", "Carros": [{"_id": "64b9596e2bd416c8497e7864"}]}, {"_id": "EUA", "Carros": [{"_id": "64b9596e2bd416c8497e7862"}, {"_id": "64b9596e2bd416c8497e7865"}]}, {"_id": "Alemanha", "Carros": [{"_id": "64b9596e2bd416c8497e7863"}]}]
